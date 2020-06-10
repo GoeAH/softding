@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/softding.iml" filepath="$PROJECT_DIR$/softding.iml" />
+      <module fileurl="file://$PROJECT_DIR$/softding-admin/softding-admin.iml" filepath="$PROJECT_DIR$/softding-admin/softding-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/softding-api/softding-api.iml" filepath="$PROJECT_DIR$/softding-api/softding-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/softding-business/softding-business.iml" filepath="$PROJECT_DIR$/softding-business/softding-business.iml" />
+      <module fileurl="file://$PROJECT_DIR$/softding-common/softding-common.iml" filepath="$PROJECT_DIR$/softding-common/softding-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/softding-framework/softding-framework.iml" filepath="$PROJECT_DIR$/softding-framework/softding-framework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/softding-generator/softding-generator.iml" filepath="$PROJECT_DIR$/softding-generator/softding-generator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/softding-system/softding-system.iml" filepath="$PROJECT_DIR$/softding-system/softding-system.iml" />
+      <module fileurl="file://$PROJECT_DIR$/softding-timer/softding-timer.iml" filepath="$PROJECT_DIR$/softding-timer/softding-timer.iml" />
+    </modules>
+  </component>
+</project>
